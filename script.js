@@ -109,13 +109,6 @@ const commands = {
 		}
 	},
 
-	/* setExp(
-		'<b>Developer - Arpeggio Musical</b>',
-		'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
-		'/images/linux-icon.png'
-	);
-*/
-
 	exp: {
 		text: 'exp',
 		function: function() {
@@ -148,7 +141,7 @@ const commands = {
 			setExp(
 				'<b>Arpeggio Musical</b>',
 				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
-				'/images/arpeggio-icon.png'
+				'https://github.com/igortheodoro/personal-site/blob/master/images/arpeggio-icon.png?raw=true'
 			);
 
 			createInput();
@@ -158,7 +151,7 @@ const commands = {
 			setExp(
 				'<b>Ediph</b>',
 				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
-				'/images/ediph-icon.png'
+				'https://github.com/igortheodoro/personal-site/blob/master/images/ediph-icon.png?raw=true'
 			);
 
 			createInput();
@@ -168,7 +161,7 @@ const commands = {
 			setExp(
 				'<b>Blog</b>',
 				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
-				'/images/pencil-icon.png'
+				'https://github.com/igortheodoro/personal-site/blob/master/images/pencil-icon.png?raw=true'
 			);
 
 			createInput();
