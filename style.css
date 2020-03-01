@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+  font-family: 'Montserrat';
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+.text-gray {
+  color: rgb(226, 226, 226);
+}
+
+.bg-black {
+  background-color: rgb(12, 12, 12);
+}
+
+input,
+input:focus {
+  text-rendering: auto;
+  color: rgb(226, 226, 226);
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  -webkit-appearance: textfield;
+  background-color: rgb(12, 12, 12);
+  -webkit-rtl-ordering: logical;
+  cursor: default;
+  margin: 0em;
+  padding: 1px 0px;
+  border-width: 2px;
+  border-style: transparent;
+  border-color: transparent;
+  outline: none;
+  width: 100%;
+  height: 100%;
+}
+
+.list-help {
+  list-style-image: url("images/info-icon.png");
+}
+
+.list-star {
+  list-style-image: url("images/star-icon.png");
+  font-weight: bold;
+}
+
+.list-folder {
+  list-style-image: url("images/folder-icon.png");
+  font-weight: bold;
+}
+
+.list-mail {
+  list-style-image: url("images/mail-icon.png");
+  font-weight: bold;
+}
+
+.list-case {
+  list-style-image: url("images/case-icon.png");
+  font-weight: bold;
+}
+
+.list-exp {
+  list-style-image: url("images/target-icon.png");
+  font-weight: bold;
+}
