@@ -140,7 +140,7 @@ const commands = {
 		fncArpeggio: function() {
 			setExp(
 				'<b>Arpeggio Musical</b>',
-				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
+				'<li>Write modern, performant, maintainable code for a musical group.</li> <li>Work with JavaScript, Node.js, Jquery and Bootstrap.</li> <li>This website was an initiative of the university with the extension project. In which, it is necessary to help some group to have more results.</li>',
 				'https://github.com/igortheodoro/personal-site/blob/master/images/arpeggio-icon.png?raw=true'
 			);
 
@@ -150,7 +150,7 @@ const commands = {
 		fncEdiph: function() {
 			setExp(
 				'<b>Ediph</b>',
-				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
+				'<li>Write a code for an image editing platform, that the images would be hosted and saved in the database as links, so that professional editors can handle them. </li> <li>Work with a JavaScript, Ejs, Node.js, MongoDB, Mongoose.</li> <li>I made all this personal project for train my skills with databases and back end servers.</li>',
 				'https://github.com/igortheodoro/personal-site/blob/master/images/ediph-icon.png?raw=true'
 			);
 
@@ -160,7 +160,7 @@ const commands = {
 		fncBlog: function() {
 			setExp(
 				'<b>Blog</b>',
-				'<li>Write modern, performant, maintainable code for a diverse array of client and internal projects</li> <li>Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, Wordpress, Prismic, and Netlify</li> <li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>',
+				'<li>Write a code for simulate all functions of a blog.</li> <li>Work with JavaScript, Node.js, Bootstrap, MongoDB.</li> <li>I made all this personal project for train my skills with databases and back end servers.</li>',
 				'https://github.com/igortheodoro/personal-site/blob/master/images/pencil-icon.png?raw=true'
 			);
 
