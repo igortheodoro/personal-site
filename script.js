@@ -27,11 +27,11 @@ const commands = {
 			var list = document.createElement('ul');
 
 			content.innerHTML =
-				'<strong>This personal site was made inspired in computer terminal style. Also you need insert some commands to make things. Some commands is: </strong>';
+				'<strong>This personal website was made inspired by the style on computer terminals. To navigate, you need to type certain commands. Here are some of the available commands: </strong>';
 			divContent.setAttribute('class', 'content');
 
 			list.innerHTML =
-				'<li><b>Igor</b></li><p>Introduction myself.</p> <li><b>Github</b></li><p>Show my profile on GitHub.</p> <li><b>Contact</b></li><p>Get in touch.</p> <li><b>Exp</b></li><p>About my experience.</p> <li><b>Help</b></li><p>Brief description to help you.</p> <li><b>Clear</b></li><p>Clear body of site.</p>';
+				"<li><b>Igor</b></li><p>About me.</p> <li><b>Github</b></li><p>Show my profile on GitHub.</p> <li><b>Contact</b></li><p>Get in touch.</p> <li><b>Exp</b></li><p>About my experience.</p> <li><b>Help</b></li><p>A list of useful commands.</p> <li><b>Clear</b></li><p> Clear the site's body.</p>";
 			list.setAttribute('class', 'list-help');
 
 			sec.appendChild(divContent);
@@ -117,7 +117,7 @@ const commands = {
 			var list = document.createElement('ul');
 
 			content.innerHTML =
-				"<b>I'm looking for my first professional opportunity and all my experience you found on my github. You can read more about my personal projects using: </b>";
+				"<b>I'm looking for my first professional opportunity, you can find all of my experience and projects in my github profile. You can know more about my projects using: </b>";
 
 			list.innerHTML = '<li>exp arpeggio</li> <li>exp ediph</li> <li>exp blog</li>';
 			list.setAttribute('class', 'list-exp');
@@ -140,7 +140,7 @@ const commands = {
 		fncArpeggio: function() {
 			setExp(
 				'<b>Arpeggio Musical</b>',
-				'<li>Write modern, performant, maintainable code for a musical group.</li> <li>Work with JavaScript, Node.js, Jquery and Bootstrap.</li> <li>This website was an initiative of the university with the extension project. In which, it is necessary to help some group to have more results.</li>',
+				"<li>Write modern, performant, maintainable code for a musical group.</li> <li>Work with JavaScript, Node.js, Jquery and Bootstrap.</li> <li>This website was made as a extesion project for the University. The project's goal was to help a musical group improver their results.</li>",
 				'https://github.com/igortheodoro/personal-site/blob/master/images/arpeggio-icon.png?raw=true'
 			);
 
@@ -150,7 +150,7 @@ const commands = {
 		fncEdiph: function() {
 			setExp(
 				'<b>Ediph</b>',
-				'<li>Write a code for an image editing platform, that the images would be hosted and saved in the database as links, so that professional editors can handle them. </li> <li>Work with a JavaScript, Ejs, Node.js, MongoDB, Mongoose.</li> <li>I made all this personal project for train my skills with databases and back end servers.</li>',
+				'<li>Write a code for an image editing platform, that the images would be hosted and saved in the database as links, so that professional editors can handle them. </li> <li>Work with a JavaScript, Ejs, Node.js, MongoDB, Mongoose.</li> <li>This project was made as an concept for an image editing platform, where users can host their image files on database, where a professional can access and return a well trated photo.</li>',
 				'https://github.com/igortheodoro/personal-site/blob/master/images/ediph-icon.png?raw=true'
 			);
 
@@ -160,7 +160,7 @@ const commands = {
 		fncBlog: function() {
 			setExp(
 				'<b>Blog</b>',
-				'<li>Write a code for simulate all functions of a blog.</li> <li>Work with JavaScript, Node.js, Bootstrap, MongoDB.</li> <li>I made all this personal project for train my skills with databases and back end servers.</li>',
+				'<li>Write a code for simulate all functions of a blog.</li> <li>Work with JavaScript, Node.js, Bootstrap, MongoDB.</li> <li>This project was made to simulate all functionalities of an Blog. I have made this project to practice my skills regarding Databases and Backend servers.</li>',
 				'https://github.com/igortheodoro/personal-site/blob/master/images/pencil-icon.png?raw=true'
 			);
 
