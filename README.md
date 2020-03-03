@@ -5,7 +5,7 @@ Feito inspirado nos estilos de terminais dos computadores.
 
 ## Deployment
 
-O deploy está disponível [aqui.](https://igortheodoro.tech)
+A implementação está disponível [aqui.](https://igortheodoro.tech)
 
 ## Feito com
 
